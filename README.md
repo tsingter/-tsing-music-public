@@ -3,6 +3,7 @@
 [![Version](https://img.shields.io/badge/Version-v0.02--beta-blue.svg)](https://github.com/tsingter/tsing-music/releases)
 [![Language](https://img.shields.io/badge/Language-English%20%7C%20%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-orange.svg)](#)
 [![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)](#)
+[![Platform](https://img.shields.io/badge/Platform-Android-lightgrey.svg)](#)
 
 > **高端发烧友的音乐播放器 | A Premium Music Player for Audiophiles.**
 
