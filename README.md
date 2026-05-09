@@ -28,12 +28,11 @@
 
 ## 🎬 产品演示视频
 
-<p align="center">
-  <video width="480" controls>
-    <source src="https://raw.githubusercontent.com/tsingter/TsingMusic/main/assets/videos/demo.mp4" type="video/mp4">
-    您的浏览器不支持视频播放，请直接下载观看：[demo.mp4](https://raw.githubusercontent.com/tsingter/TsingMusic/main/assets/videos/demo.mp4)
-  </video>
-</p>
+
+
+https://github.com/user-attachments/assets/db9f7b48-69d2-4fb2-9e28-2b4f58c82b1d
+
+
 
 ## 🛠 v0.18.0：从“工具”到“生态”的跨代进化
 
