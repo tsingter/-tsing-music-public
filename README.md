@@ -1,64 +1,73 @@
-# 听着 - Tsing Music 🎵
+这次确实是我落了俗套，没接住您那种“极客浪漫”与“文艺情怀”交织的底色。
 
-[![Version](https://img.shields.io/badge/Version-v0.02--beta-blue.svg)](https://github.com/tsingter/tsing-music/releases)
-[![Language](https://img.shields.io/badge/Language-English%20%7C%20%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-orange.svg)](#)
-[![Platform](https://img.shields.io/badge/Platform-iOS-lightgrey.svg)](#)
-[![Platform](https://img.shields.io/badge/Platform-Android-lightgrey.svg)](#)
+我们要的不是一份冰冷的“说明书”，而是一篇**写给 NAS 音乐发烧友的告白信**。既要有大厂产品发布的“颗粒度”和“闭环”逻辑，又得有那种躲在代码背后、为了情怀不计成本的“匠人气”。
 
-> **高端发烧友的音乐播放器 | A Premium Music Player for Audiophiles.**
+既然是放在 GitHub 的 README，它就是**听着 / TsingMusic** 的门面。这份文案我为您重新打磨，加强了 SEO 布局，同时把那种“自由发烧”的劲儿拉满：
 
 ---
 
-## ✨ 核心亮点 | Highlights
+# 🎼 听着 / TsingMusic
 
-### 🎨 极致视觉 (High-Fidelity UI)
-- **3D Coverflow**: 深度自研物理引擎，还原经典的流动封面体验。
-- **Glassmorphism**: 全局毛玻璃质感，适配 iOS 原生审美。
-- **Dynamic Background**: 智能提取专辑色，打造沉浸式听歌氛围。
+### **复刻 iPod 时代的视觉浪漫，重塑私有云音乐的自由主权**
 
-### 🔌 强大连接 (Connectivity)
-- **Navidrome Native**: 完美适配 Navidrome 自建音乐服务器。
-- **Subsonic Protocol**: 支持所有兼容 Subsonic 协议的服务端。
-- **Global Ready**: 内置中英双语，面向全球用户设计。
+**在算法横行、版权割裂的当下，我们为何还要折腾私有云音乐？**
 
-### 🚀 极致性能 (Performance)
-- **Fluid Motion**: 60FPS 丝滑流畅。
-- **Smart Cache**: 智能本地缓存管理，节省流量。
+因为我们依然迷恋封面翻转时的那抹流光，依然相信音乐不应被锁在月费会员的牢笼里。**听着 / TsingMusic** 是一款深度适配 **Navidrome / Subsonic** 协议的第三方客户端，它存在的意义，是为每一台 NAS 注入灵魂，让数字音源回归它最初的艺术美感。
 
 ---
 
-## 📸 预览 | Preview
+## ✨ 灵魂内核：美学与技术的“双向奔赴”
 
-<p align="center">
-  <img src="assets/images/preview.png" width="300" alt="App Preview">
-</p>
+### 🎙️ **复古 iPod Cover Flow：指尖上的视觉盛宴**
 
----
+我们不仅是在做播放器，更是在复刻一种“翻阅感”。**听着 / TsingMusic** 深度重绘了经典的 iPod 专辑封面流。当您滑动屏幕，高分辨率的封面在数字空间错落有致地交替，那一刻，音乐不再是干巴巴的进度条，而是一场流动的视觉艺术。
 
-## 📥 下载 | Download
+### 🔓 **私有化主权：自由听歌的终极答案**
 
-请前往 **Releases** 页面下载最新的安装包。
+基于强大的 Navidrome 生态，彻底摆脱平台限制。无论是 FLAC 还是 DSD，您的每一首歌，都以最纯粹的姿态，安稳地躺在您自己的服务器里。
 
-- **iOS**: 下载 `.ipa` 文件。
-- **Android**: *Coming Soon...*
+### 🚀 **极致迭代：以极客之名，听劝生长**
 
----
-
-## ☕ 赞赏 | Support
-
-如果你喜欢这款播放器，欢迎请作者喝杯咖啡。你的支持是我持续更新的最大动力！
-
-<p align="left">
-  <img src="assets/images/alipay_qr.jpg" width="200" alt="Alipay">
-</p>
+“小步快跑，高频对齐”。我们保持着惊人的更新频率，每一个细微的交互优化，都源自社区发烧友的真实共鸣。
 
 ---
 
-## 📄 关于与反馈 | About & Feedback
+## 🛠 v0.18.0：从“工具”到“生态”的跨代进化
 
-- 本仓库仅作为 **Tsing Music** 的官方发布主页。
-- **源代码目前不公开 (Private Source Code)**。
-- 如果你有任何建议或发现了 Bug，请直接提交 [Issue](https://github.com/tsingter/tsing-music/issues)。
+> **本版本底层逻辑：身份锚定 · 价值共创 · 体验对齐**
+
+* **🔐 开启“原住民”时代 (用户体系)**
+正式上线**注册登录系统**。我们终于实现了配置与特征数据的云端同步，让您的听歌偏好不再随设备更替而飘零。
+*提示：第一批注册的“种子用户”，是我们共创之路的基石，未来将享有专属的惊喜权益。*
+* **💬 “听劝”是我们的最高准则 (反馈板块)**
+新增用户反馈入口。在这里，作者与用户不再是交付关系，而是共创伙伴。每一条反馈都会被“赋能”到下一个迭代周期中。
+* **📱 针对性交互修补**
+针对 Android 横屏布局乱序进行了“断腕式”修复，暂时禁用了横屏模式。这并非退步，而是为了在下个版本给您一个更完美的全景视觉展示。
 
 ---
-*Made with ❤️ by Ding*
+
+## 🗺 进化蓝图 (Roadmap)
+
+* **视觉重构**：全新设计的专辑页与歌手页已在 Mockup 阶段，即将开启灰度测试。
+* **算法校准**：深度修复特定场景下进度条的精度偏差，确保视听丝滑对齐。
+* **全场景覆盖**：各大应用市场准入流程正稳步推进，更便捷的下载路径指日可待。
+
+---
+
+## 📝 开发者说
+
+**听着 / TsingMusic** 永久免费，为自由发烧而生。
+
+应用市场的审核路漫漫，但我们从不停歇。如果您也厌倦了千篇一律的列表，渴望在那抹复古封面中找回听歌的初衷，欢迎加入我们的乌托邦。
+
+---
+
+## 🏷️ 社区索引与 SEO 优化 (Tags)
+
+`#听着` `#TsingMusic` `#NavidromeClient` `#Subsonic` `#NAS音乐播放器` `#iPodStyle` `#MusicPlayer` `#SelfHosted` `#群晖` `#威联通` `#飞牛NAS` `#FnOS` `#开源播放器` `#无损音乐播放器` `#HighFidelity` `#PersonalCloudMusic`
+
+---
+
+**听着 / TsingMusic —— 跨越数字尘埃，与好音乐不期而遇。**
+
+[⭐ Star on GitHub]() | [🐞 提交建议]()
